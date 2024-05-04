@@ -13,6 +13,5 @@ for el in reclame_tekst4:
         print(el.upper())
     else:
         print(el.lower())
-print (reclame_tekst4)
     
 
